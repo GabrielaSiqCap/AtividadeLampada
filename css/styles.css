@@ -93,6 +93,11 @@ button {
     margin: 15px 0px;
 }
 
+.verde{
+    background: #b6f0ab !important;
+    color: green !important;
+}
+
 label {
     padding-right: 10px;
 }
